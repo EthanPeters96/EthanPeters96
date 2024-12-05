@@ -17,12 +17,12 @@ Welcome to my GitHub profile! I'm a software developer with a passion for creati
 
 ## Projects
 
-- [Project 1](https://github.com/EthanPeters96/project1): Description of project 1.
-- [Project 2](https://github.com/EthanPeters96/project2): Description of project 2.
+- [Project 1]([https://github.com/EthanPeters96/project1](https://github.com/EthanPeters96/FlavorWave)): This is the first web-page i created.
+- [Project 2]([https://github.com/EthanPeters96/project2](https://github.com/EthanPeters96/CatchTheBall)): This is a basic game i created.
 
 ## Contact
 
-- [Email](mailto:ethanpeters96@example.com)
-- [LinkedIn](https://www.linkedin.com/in/ethanpeters96)
+- [Email](mailto:ethanjackpeters@hotmail.com)
+- [LinkedIn]([https://www.linkedin.com/in/ethanpeters96](https://www.linkedin.com/in/ethan-peters-a227332b8/))
 
 Thanks for visiting my profile!
