@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a software developer with a passion for creati
 ## About Me
 
 - 🌱 I’m currently learning advanced Python and JavaScript frameworks.
-- 🔭 I’m working on several exciting projects, including a machine learning model for image recognition.
+- 🔭 I’m working on several exciting projects.
 - 👯 I’m looking to collaborate on open-source projects related to AI and web development.
 - 💬 Ask me about anything related to Python, JavaScript, or web development.
 
